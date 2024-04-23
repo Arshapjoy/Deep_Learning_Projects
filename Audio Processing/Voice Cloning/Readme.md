@@ -1,0 +1,1 @@
+we’ll be using deep learning techniques to create a personalized synthetic voice that sounds just like you! By leveraging cutting-edge algorithms such as Tacotron and WaveNet, we’ll explore the fascinating world of speech synthesis and unlock the potential of voice cloning for various applications, from entertainment to voice assistance.
