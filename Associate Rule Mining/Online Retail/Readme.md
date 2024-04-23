@@ -1,0 +1,1 @@
+We’ll be using association rule mining techniques to uncover hidden patterns and relationships between products in online retail transactions. With this knowledge, businesses can improve their product bundling and promotional strategies to increase sales and customer satisfaction.
